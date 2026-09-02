@@ -1,0 +1,3 @@
+﻿Teste de documento distribuído.
+IPFS utiliza CIDs para identificar conteúdo.
+Embeddings permitem pesquisa semântica.

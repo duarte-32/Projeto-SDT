@@ -1,0 +1,2 @@
+﻿Documento sobre IPFS, consenso distribuído e índices vetoriais FAISS.
+O líder propõe uma versão e os peers enviam ACKs.
